@@ -1,0 +1,15 @@
+G:\Jose Carlos Test\Codigos\learning_modern_c\bin\Debug\net9.0\learning_modern_c.exe
+G:\Jose Carlos Test\Codigos\learning_modern_c\bin\Debug\net9.0\learning_modern_c.deps.json
+G:\Jose Carlos Test\Codigos\learning_modern_c\bin\Debug\net9.0\learning_modern_c.runtimeconfig.json
+G:\Jose Carlos Test\Codigos\learning_modern_c\bin\Debug\net9.0\learning_modern_c.dll
+G:\Jose Carlos Test\Codigos\learning_modern_c\bin\Debug\net9.0\learning_modern_c.pdb
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.GeneratedMSBuildEditorConfig.editorconfig
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.AssemblyInfoInputs.cache
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.AssemblyInfo.cs
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.csproj.CoreCompileInputs.cache
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.sourcelink.json
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.dll
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\refint\learning_modern_c.dll
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.pdb
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\learning_modern_c.genruntimeconfig.cache
+G:\Jose Carlos Test\Codigos\learning_modern_c\obj\Debug\net9.0\ref\learning_modern_c.dll
